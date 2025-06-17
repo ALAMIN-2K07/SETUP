@@ -2,14 +2,12 @@
 
 </p>
    <p align="center">
-      <a href="https://github.com/U7P4L-IN/TERMUX-SETUP/stargazers">
-      <img alt="Stargazers" src="https://img.shields.io/github/stars/U7P4L-IN/TERMUX-SETUP?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/U7P4L-IN/TERMUX-SETUP/releases/latest">
-      <img alt="Releases" src="https://img.shields.io/github/release/U7P4L-IN/TERMUX-SETUP?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
+      <a href="https://github.com/ALAMIN-2K07/TERMUX-SETUP/stargazers">
+      <img alt="Stargazers" src="https://img.shields.io/github/stars/ALAMIN-2K07/TERMUX-SETUP?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
+      <a href="https://github.com/ALAMIN-2K07/TERMUX-SETUP/releases/latest">
+      <img alt="Releases" src="https://img.shields.io/github/release/ALAMIN-2K07/TERMUX-SETUP?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
       <a href="https://www.conventionalcommits.org/en/v1.0.0/">
       <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/U7P4L-IN/TERMUX-SETUP/actions/workflows/github-action.yml">
-      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
    </p>
    
 </br>
@@ -51,9 +49,9 @@ apt update && apt upgrade -y
 pkg install git
 pkg install python
 pip install requests
-git clone --depth=1 https://github.com/U7P4L-IN/TERMUX-SETUP.git
+git clone --depth=1 https://github.com/ALAMIN-2K07/TERMUX-SETUP.git
 cd TERMUX-SETUP
-python3 SET.py
+python3 setup.py
 ```
 
 <p align="center"><img src="./image/carbon.png">
@@ -93,7 +91,7 @@ For more convoluted language, see the [LICENSE](/LICENSE).
 <h5 align="center"><b>DESCRIPTION</b></h5>
 
 * ©️ Copyright Message
->> Copyright © [2023-27] [U7P4L-IN]
+>> Copyright © [2025] [ALAMIN-2K07]
 >All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
 ## Give A Star ⭐
 > You can also give this repository a star to show more people and they can use this repository.
