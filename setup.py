@@ -64,7 +64,7 @@ def menu():
     print(Panel("[bold black]【[white]01[bold yellow]/[white]A[bold black]】[dark_slate_gray3]TERMUX BESIC PKG SETUP\n[bold black]【[white]02[bold yellow]/[white]B[bold black]】[dark_slate_gray3]ADD BANNER IN TERMUX \n[bold black]【[white]03[bold yellow]/[white]C[bold black]】[dark_slate_gray3]REPORT FOR ANY BUGS\n[bold black]【[white]00[bold yellow]/[white]X[bold black]】[red1]EXIT PROGRAMME", style="bold bright_black",title="<[bold white reverse] MAIN MENU [/bold white reverse]>"))
     option = Console().input("[bold bright_black]   ╰─>[white] ")
     if option in ['1','01','A','a']:set_up()
-    elif option in ['2','02','B','b']:clear();os.system('rm -rf TERMUX-BANNER && git clone https://github.com/ALAMIN-2K07/TERMUX-BANNER.git && cd TERMUX-BANNER && bash setup.sh')
+    elif option in ['2','02','B','b']:clear();os.system('rm -rf TERMUX-BANNER && cd && git clone https://github.com/ALAMIN-2K07/TERMUX-BANNER.git && cd TERMUX-BANNER && bash setup.sh')
     elif option in ['3','03','C','c']:admin()
     elif option in ['00','0','X','x']:print(Panel("[bold black]【[white]=[bold black]】[bold blue]EXIT DONE ...!!!\n[bold black]【[white]=[bold black]】[bold blue]THANKS FOR USING OUR TOOLS ...!!!", style="bold bright_black",title="<[bold white reverse] EXIT </> [/bold white reverse]>"))
     else:
