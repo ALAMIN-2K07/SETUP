@@ -1,55 +1,62 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TERMUX%20SETUP&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TERMUXB%20BASIC%20MODULE%20SETUP%20FOR%20TERMUX%20APP%20!!&descAlignY=51&descAlign=62)
+# ⚡️ All-in-One Termux Setup Tool 
 
-</p>
-   <p align="center">
-      <a href="https://github.com/ALAMIN-2K07/TERMUX-SETUP/stargazers">
-      <img alt="Stargazers" src="https://img.shields.io/github/stars/ALAMIN-2K07/TERMUX-SETUP?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/ALAMIN-2K07/TERMUX-SETUP/releases/latest">
-      <img alt="Releases" src="https://img.shields.io/github/release/ALAMIN-2K07/TERMUX-SETUP?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
-      <a href="https://www.conventionalcommits.org/en/v1.0.0/">
-      <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
-   </p>
-   
-</br>
-<p align="center">
+Easily set up Termux with all required packages 📦 and get support for adding  banners 🎨💻  
+Perfect for beginners who want a stylish and powerful terminal setup 🔥
 
-> Welcome to the **Termux Setup Tools**, a professional and user-friendly Bash script designed to optimize your Termux environment! This script installs essential packages, configures your terminal, tests internet speed, displays system information, and much more!  
+---
 
+## 🔧 Features
 
-## Language</br>
+- ✅ Basic commands and full setup commands
+- 🎨 A beautiful hacker related banner  
+- 💡 Beginner-friendly script with zero coding knowledge.
 
- <p align="center"><img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/>
+---
 
+## 🖼️ Preview
 
-</p>
+![Preview 1](https://i.imgur.com/0OZHnL0.jpeg)
+![Preview 2](https://i.imgur.com/BBXIwC8.jpeg)
 
-## Tested On >
+---
 
-* TERMUX
-## **📖 How It Works**  
+## 🚀 Installation
 
-1. **Check & Install Packages**:  
-   - The script checks if each package is already installed.  
-   - Installs only missing packages, skipping those already present.  
-
-2. **Update & Upgrade**:  
-   - Ensures your Termux environment is up-to-date.  
-
-3. **Optimize Storage**:  
-   - Removes unnecessary files and caches to reclaim space. 
-
-## **🛡️ Requirements**  
-
-- Termux environment.  
-- Internet connection for downloading packages.  
-
-## INSTALL  ON TERMUX
-```python
+```
 apt update && apt upgrade -y
+```
+```
 pkg install git
+```
+```
 pkg install python
+```
+```
 pip install requests
-git clone --depth=1 https://github.com/ALAMIN-2K07/TERMUX-SETUP.git
-cd TERMUX-SETUP
+```
+```
+git clone --depth=1 https://github.com/ALAMIN-2K07/SETUP.git
+```
+```
+cd SETUP
+```
+```
 python3 setup.py
 ```
+---
+
+## 📞 Contact Me
+
+> 👤 Developer: **MOHAMMAD ALAMIN**  
+> [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white)](https://facebook.com/ALAMIN2K07)  
+> [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge&logoColor=white)](https://wa.me/+8801300504976)  
+> [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/ALAMIN2K07)  
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white)](https://github.com/ALAMIN-2K07)
+
+---
+
+## 📜 License
+
+Licensed under the **MIT License** ✅  
+Free to use, modify, and share.  
+But please don't change the credit.
