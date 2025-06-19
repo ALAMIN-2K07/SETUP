@@ -59,4 +59,7 @@ python3 setup.py
 
 Licensed under the **MIT License** ✅  
 Free to use, modify, and share.  
-But please don't change the credit.
+
+## Credits
+
+📌 This script was not originally created by me. I have only modified and fixed it to make it work properly.
