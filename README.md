@@ -15,8 +15,7 @@ Perfect for beginners who want a stylish and powerful terminal setup 🔥
 
 ## 🖼️ Preview
 
-![Preview 1](https://i.imgur.com/0OZHnL0.jpeg)
-![Preview 2](https://i.imgur.com/BBXIwC8.jpeg)
+![Preview 1](https://i.imgur.com/wNazCg1.jpeg)
 
 ---
 
